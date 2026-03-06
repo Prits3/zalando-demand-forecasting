@@ -1,7 +1,7 @@
 # Zalando Demand Forecasting
 
 ## App Link
-Streamlit App (local): [http://127.0.0.1:8501](http://127.0.0.1:8501)  
+Streamlit App (local): [http://localhost:8501](http://localhost:8501)  
 Streamlit App (public): `ADD_YOUR_STREAMLIT_CLOUD_URL_HERE`
 
 ## 1. Problem
