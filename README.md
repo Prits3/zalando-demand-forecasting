@@ -1,5 +1,8 @@
 # Zalando Demand Forecasting
 
+## App Link
+Streamlit App: [http://127.0.0.1:8501](http://127.0.0.1:8501)
+
 ## 1. Problem
 E-commerce retailers like Zalando need accurate demand forecasts to avoid stockouts and excess inventory. This project predicts product demand and translates predictions into inventory decisions (reorder point, safety stock, and target stock level).
 
