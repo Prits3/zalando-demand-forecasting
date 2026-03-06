@@ -2,7 +2,7 @@
 
 ## App Link
 Streamlit App (local): [http://localhost:8501](http://localhost:8501)  
-Streamlit App (public): `ADD_YOUR_STREAMLIT_CLOUD_URL_HERE`
+Streamlit App (public): [https://zalando-demand-forecasting-kypzud23fh4yaxavuwyvrq.streamlit.app/](https://zalando-demand-forecasting-kypzud23fh4yaxavuwyvrq.streamlit.app/)
 
 ## 1. Problem
 E-commerce retailers like Zalando need accurate demand forecasts to avoid stockouts and excess inventory. This project predicts product demand and translates predictions into inventory decisions (reorder point, safety stock, and target stock level).
