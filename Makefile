@@ -49,7 +49,7 @@ api:
 	$(UVICORN) api.app:app --reload
 
 dashboard:
-	$(STREAMLIT) run app/dashboard.py
+	$(STREAMLIT) run streamlit_app.py --server.address 127.0.0.1 --server.port 8501 --server.fileWatcherType none
 
 clean:
 	rm -f models/demand_model.joblib models/model_metadata.json
