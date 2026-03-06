@@ -1,7 +1,8 @@
 # Zalando Demand Forecasting
 
 ## App Link
-Streamlit App: [http://127.0.0.1:8501](http://127.0.0.1:8501)
+Streamlit App (local): [http://127.0.0.1:8501](http://127.0.0.1:8501)  
+Streamlit App (public): `ADD_YOUR_STREAMLIT_CLOUD_URL_HERE`
 
 ## 1. Problem
 E-commerce retailers like Zalando need accurate demand forecasts to avoid stockouts and excess inventory. This project predicts product demand and translates predictions into inventory decisions (reorder point, safety stock, and target stock level).
@@ -158,3 +159,9 @@ Features:
 - View forecast curve and forecast table
 - View inventory recommendation metrics (reorder point, safety stock, target inventory)
 - View global actual vs predicted backtest chart
+
+### Deploy to Streamlit Community Cloud
+1. Push this repo to GitHub (already done).
+2. Go to Streamlit Community Cloud and create a new app from this repo.
+3. Set **Main file path** to `streamlit_app.py`.
+4. Deploy, then copy the generated URL and replace `ADD_YOUR_STREAMLIT_CLOUD_URL_HERE` at the top of this README.
